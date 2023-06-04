@@ -1,0 +1,19 @@
+.container{
+	font-family: Arial Helvetica, sans-serief;
+	text-align:center;
+	
+}
+.tilte{
+	font-size : 66px;
+}
+.counter{
+	font-size: 86px;
+}
+.btn{
+	background-color : purple;
+	color: white;
+	padding: 8px 24px;
+	border:none;
+	cursor: pointer;
+	border-radius: 34px;
+}
